@@ -8,3 +8,6 @@
 
 - [Free for dev](https://free-for.dev/)
     - Curated list of tools for developers
+
+- [CSS Tricks](https://css-tricks.com/)
+    - Website with tutorials on a lot of themes
