@@ -27,3 +27,4 @@ This list a curated list of resources for new and experienced developers.
 	- [Shape Up Book](https://basecamp.com/shapeup)
 
 
+Built using [https://stackedit.io/](https://stackedit.io/)
