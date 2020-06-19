@@ -1,4 +1,4 @@
-# Learning resources
+# Free learning resources
 This list a curated list of resources for new and experienced developers.
 
 > To me best way to learn was to find how I learned better.
