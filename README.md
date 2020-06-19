@@ -18,6 +18,7 @@ This list a curated list of resources for new and experienced developers.
  - [Resources by Traversy Media](https://gist.github.com/bradtraversy/61171a9b81586f5bc4c0ca1e2beb59ab)
  - [CSS Tricks](https://css-tricks.com/)
  - [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
+ - [HEAD - Guide to HTML5 elements](https://htmlhead.dev/)
 ## Backend
  - PHP
 	 - [Design Patterns PHP](https://designpatternsphp.readthedocs.io/)
