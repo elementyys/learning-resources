@@ -30,6 +30,8 @@ This list a curated list of resources for new and experienced developers.
 ## Free books
 - Project management
 	- [Shape Up Book](https://basecamp.com/shapeup)
+- Linux
+	- [Linux Command Line](http://linuxcommand.org/tlcl.php)
 
 
 Built using [https://stackedit.io/](https://stackedit.io/)
