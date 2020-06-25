@@ -22,6 +22,7 @@ This list a curated list of resources for new and experienced developers.
  - [CSS Grid Cheat Sheet](https://yoksel.github.io/grid-cheatsheet/)
  - [UI Design Daily](https://uidesigndaily.com/)
  - [Free MIT Icons - Tabler Icon](https://github.com/tabler/tabler-icons)
+ - [CSS GG - Free icons](https://css.gg/app)
 ## Backend
  - PHP
 	 - [Design Patterns PHP](https://designpatternsphp.readthedocs.io/)
