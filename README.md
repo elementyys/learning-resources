@@ -14,6 +14,7 @@ This list a curated list of resources for new and experienced developers.
  - [Free for dev](https://free-for.dev/)
     - Free for dev provides resources that developers can use for free.
  - [Reddit thread](https://www.reddit.com/r/ITCareerQuestions/comments/cis3ht/learning_resources/)
+ - [Link list](https://github.com/Vincenius/link-list)
 ## Frontend 
  - [Resources by Traversy Media](https://gist.github.com/bradtraversy/61171a9b81586f5bc4c0ca1e2beb59ab)
  - [CSS Tricks](https://css-tricks.com/)
@@ -23,6 +24,7 @@ This list a curated list of resources for new and experienced developers.
  - [UI Design Daily](https://uidesigndaily.com/)
  - [Free MIT Icons - Tabler Icon](https://github.com/tabler/tabler-icons)
  - [CSS GG - Free icons](https://css.gg/app)
+ - [Spark Joy](https://github.com/sw-yx/spark-joy)
 ## Backend
  - PHP
 	 - [Design Patterns PHP](https://designpatternsphp.readthedocs.io/)
