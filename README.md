@@ -30,6 +30,8 @@ This list a curated list of resources for new and experienced developers.
 	 - [Design Patterns PHP](https://designpatternsphp.readthedocs.io/)
 	 - [Learn PHP](https://github.com/odan/learn-php)
 	 - [Clean code Laravel best practices](https://threadreaderapp.com/thread/1272822437181378561.html)
+## Design
+ - [Design Resources](https://www.designresourc.es/)
 ## Free books
 - Project management
 	- [Shape Up Book](https://basecamp.com/shapeup)
